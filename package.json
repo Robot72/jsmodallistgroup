@@ -1,0 +1,8 @@
+{
+    "name": "JsModalListGroup",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Robert Kuznetsov",
+    "contributors": [],
+    "dependencies": {}
+}
